@@ -1,0 +1,14 @@
+.\usbhw.o: usbhw.c
+.\usbhw.o: LPC17xx.h
+.\usbhw.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\usbhw.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\usbhw.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\usbhw.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\usbhw.o: C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\usbhw.o: type.h
+.\usbhw.o: usb.h
+.\usbhw.o: usbcfg.h
+.\usbhw.o: usbreg.h
+.\usbhw.o: usbhw.h
+.\usbhw.o: usbcore.h
+.\usbhw.o: usbuser.h

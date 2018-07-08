@@ -1,0 +1,11 @@
+.\usbdmain.o: USBAudio\usbdmain.c
+.\usbdmain.o: USBAudio\LPC17xx.h
+.\usbdmain.o: USBAudio\core_cm3.h
+.\usbdmain.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\usbdmain.o: USBAudio\system_LPC17xx.h
+.\usbdmain.o: USBAudio\type.h
+.\usbdmain.o: USBAudio\usb.h
+.\usbdmain.o: USBAudio\usbcfg.h
+.\usbdmain.o: USBAudio\usbhw.h
+.\usbdmain.o: USBAudio\usbcore.h
+.\usbdmain.o: USBAudio\usbaudio.h

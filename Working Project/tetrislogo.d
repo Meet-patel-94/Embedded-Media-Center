@@ -1,0 +1,1 @@
+.\tetrislogo.o: tetrislogo.c

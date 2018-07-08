@@ -1,0 +1,13 @@
+.\main.o: MAIN.c
+.\main.o: LPC17xx.h
+.\main.o: core_cm3.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\main.o: system_LPC17xx.h
+.\main.o: type.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\main.o: GLCD.h
+.\main.o: LED.h
+.\main.o: KBD.h
+.\main.o: C:\Keil\ARM\RV31\INC\RTL.h
